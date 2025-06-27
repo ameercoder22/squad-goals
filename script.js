@@ -1,7 +1,7 @@
 const players = [
   {
     name: "Virat Kohli",
-    image: "images/kohli.jpeg",
+    image: "kohli.jpeg",
     matches: 250,
     strikeRate: "137.8",
     jersey: 18,
