@@ -9,7 +9,7 @@ const players = [
   },
   {
     name: "Jasprit Bumrah",
-    image: "images/bumrah.jpeg",
+    image: "bumrah.jpeg",
     matches: 120,
     strikeRate: "N/A",
     jersey: 93,
@@ -17,7 +17,7 @@ const players = [
   },
   {
     name: "MS Dhoni",
-    image: "images/dhoni.jpeg",
+    image: "dhoni.jpeg",
     matches: 350,
     strikeRate: "126.13",
     jersey: 7,
@@ -25,7 +25,7 @@ const players = [
   },
   {
     name: "Rohit Sharma",
-    image: "images/rohit.jpeg",
+    image: "rohit.jpeg",
     matches: 240,
     strikeRate: "139.97",
     jersey: 45,
@@ -33,7 +33,7 @@ const players = [
   },
   {
     name: "Mohammad Siraj",
-    image: "images/siraj.jpeg",
+    image: "siraj.jpeg",
     matches: 70,
     strikeRate: "N/A",
     jersey: 73,
